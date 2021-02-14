@@ -5,8 +5,8 @@
  *     constrain, redraw, soundFormats, loadSound, imageMode, createSlider, createButton, color, frameCount
  *     stroke, noLoop, textAlign, textFont
  */
-
 // DEVELOPED IN COLLABORATION WITH KRISTY NHAN (GOOGLE CSSI)
+
 const num_waffleCone = 9;
 let BackspaceIsPressed, spaceIsPressed;
 let player1ImageWidth, player1ImageHeight;
